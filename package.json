@@ -1,0 +1,28 @@
+{
+  "name": "@therealkingnull/tiny-flow",
+  "version": "0.0.1",
+  "description": "A tiny package that calculates time and dates for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealkingnull/tiny-flow.git"
+  },
+  "keywords": [
+    "tiny",
+    "time",
+    "age",
+    "calcalculation"
+  ],
+  "author": "therealkingnull",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealkingnull/tiny-flow/issues"
+  },
+  "homepage": "https://github.com/therealkingnull/tiny-flow#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@therealkingnull"
+  }
+}
