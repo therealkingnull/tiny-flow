@@ -11,7 +11,6 @@ const timeUntil = () => {
   throw new Error("Not released yet");
 };
 
-console.log(age('08/08/2008'))
 //EXPORTS
 module.exports = {
   age,
